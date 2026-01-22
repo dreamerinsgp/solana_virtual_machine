@@ -1,0 +1,1 @@
+PrioGraph<SimplePriorityId, Pubkey, SimplePriorityId, for<'a, 'b> fn(&'a SimplePriorityId, &'b GraphNode<SimplePriorityId>) -> SimplePriorityId>

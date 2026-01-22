@@ -1,0 +1,14 @@
+[package]
+name = "priority_graph_practice"
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+
+[dependencies]
+prio-graph = "0.3.0"
+solana-pubkey = "4.0.0"
+
+[[test]]
+name = "test_priority_graph_init"
+path = "test_priority_graph_init.rs"
